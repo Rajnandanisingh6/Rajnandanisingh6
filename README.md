@@ -105,9 +105,7 @@ const rajnandani = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajnandanisingh6&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajnandanisingh6&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="90%"/>
-</p>
+
 
 <br/>
 
