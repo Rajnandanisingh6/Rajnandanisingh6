@@ -1,70 +1,298 @@
-<div align="center">
-╭─────────────────────────────────────────────╮
-│  ~/rajnandani-singh  $ whoami                │
-│                                               │
-│  > Full Stack Developer (MERN + Java)        │
-│  > Currently debugging life, one DSA         │
-│    problem at a time.                        │
-╰─────────────────────────────────────────────╯
-</div> <br/> <table width="100%"> <tr> <td width="60%" valign="top">
-01. about
+# 👋 Hi, I'm Rajnandani Singh
 
-I build things end-to-end — from React interfaces down to the API and database that power them. Right now I'm heads-down on DSA and system design, prepping for placements, and slowly turning "figure it out later" into "already handled."
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Rajnandani%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-Currently: 7th semester · full-time job-hunt mode Stack of choice: MERN, plus Java for DSA & OOP Believes in: shipping over perfecting
+<p align="center">
+  <a href="https://github.com/Rajnandanisingh6">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend-Focused+Full+Stack+Developer;Java+%7C+JavaScript+Developer;Node.js+%7C+Express+%7C+MongoDB;DSA+%7C+Problem+Solving;Building+Projects+%26+Learning+Every+Day" />
+  </a>
+</p>
 
-</td> <td width="40%" valign="top">
-02. status
-diff
-+ open to internships
-+ open to full-time roles
-+ solving DSA daily
-! learning system design
-</td> </tr> </table> <br/>
-03. stack
-<table width="100%"> <tr><td width="18%"><b>frontend</b></td><td>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajnandanisingh6&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-HTML CSS JavaScript React Tailwind
+---
 
-</td></tr> <tr><td><b>backend</b></td><td>
+## 🚀 About Me
 
-Node.js Express Java REST APIs JWT Auth
+🎓 **B.Tech Computer Science Student**
 
-</td></tr> <tr><td><b>data</b></td><td>
+💻 Backend-focused **Full Stack Developer**
 
-MongoDB MySQL Firebase
+⚙️ Building applications with **Node.js, Express & MongoDB**
 
-</td></tr> <tr><td><b>tooling</b></td><td>
+☕ Writing backend logic with **JavaScript & Java**
 
-Git GitHub VS Code Postman Linux AWS
+🧠 Practicing **DSA & problem solving** consistently
 
-</td></tr> </table> <br/>
-04. what I've shipped
-<table width="100%"> <tr> <td width="50%" valign="top">
+🔐 Interested in **REST APIs, Authentication & Backend Architecture**
 
-Full Stack MERN App A complete app with JWT-based auth, a user dashboard, and a REST API layer wired to MongoDB. Frontend and backend built and deployed by me, end to end.
+🚀 Currently preparing for **Software Development / Backend Internships**
 
-</td> <td width="50%" valign="top">
+> **I don't just learn technologies — I build with them.**
 
-Java DSA Practice An evolving, structured problem set — arrays → strings → linked lists → trees, LeetCode-style, solved and documented daily.
+---
 
-</td> </tr> </table> <br/>
-05. numbers
-<div align="center">
-100+	daily	2	1
-DSA problems solved	practice streak	languages (JS, Java)	goal: top tech offer
-</div> <br/>
-06. this week
-Mon ██████████░░░░░░░░  DSA — arrays & strings
-Tue ████████████░░░░░░  DSA — hashing/maps
-Wed ██████░░░░░░░░░░░░  Node.js backend work
-Thu ██████████████░░░░  System design basics
-Fri ████░░░░░░░░░░░░░░  Project building
-<br/> <div align="center">
-06. reach me
+## 🧑‍💻 What I'm Working On
 
-Show Image Show Image
+```text
+🔹 Backend Development
+   ├── Node.js
+   ├── Express.js
+   ├── REST APIs
+   ├── Authentication
+   └── MongoDB
 
-<br/>
-> Build. Learn. Improve. Repeat.
-</div>
+🔹 Programming
+   ├── Java
+   └── JavaScript
+
+🔹 Problem Solving
+   ├── DSA
+   ├── Logic Building
+   └── Competitive Programming Basics
+
+🔹 Development
+   ├── Full Stack Projects
+   ├── Git & GitHub
+   └── Deployment
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☕ Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+## 🔥 Backend Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+
+</p>
+
+### 💡 Currently Learning
+
+* Advanced Node.js
+* Express.js Architecture
+* MongoDB & Mongoose
+* Authentication & Authorization
+* API Design
+* MVC Architecture
+* Error Handling
+* Deployment
+* Backend Security
+* System Design Fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 TaskZen — Task Management Application
+
+A full-stack task management application focused on authentication, CRUD operations and backend API development.
+
+**Features**
+
+* 🔐 User Authentication
+* 📝 Task CRUD Operations
+* 🛡️ Protected Routes
+* 🔑 JWT Authentication
+* 🗄️ MongoDB Database
+* ⚙️ REST API
+* 📦 MVC Architecture
+* 🚀 Deployment
+
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `JWT`
+
+---
+
+### 🎵 MusicNest — Music Backend Application
+
+Backend-focused music application built to practice real-world API development and database integration.
+
+**Features**
+
+* 🎵 Music Management
+* 👤 User Management
+* 🔐 Authentication
+* 🗄️ MongoDB Integration
+* 📡 REST APIs
+* 🖼️ Image Upload
+* ⚙️ Express Backend
+
+**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose`
+
+---
+
+### 🅿️ Parking Slot Tracker
+
+A backend project designed to manage parking slots and vehicle records through REST APIs.
+
+**Concepts Practiced**
+
+* REST API Design
+* CRUD Operations
+* MongoDB
+* Express Routes
+* Controllers
+* API Testing with Postman
+
+**Tech:** `Node.js` `Express.js` `MongoDB` `Postman`
+
+---
+
+## 🧠 DSA & Problem Solving
+
+Currently strengthening my problem-solving fundamentals using **Java**.
+
+```text
+Java Fundamentals
+      ↓
+Logic Building
+      ↓
+Arrays
+      ↓
+Strings
+      ↓
+Searching
+      ↓
+Sorting
+      ↓
+Linked List
+      ↓
+Stack & Queue
+      ↓
+Trees & Graphs
+```
+
+### 🎯 My DSA Goals
+
+* Build strong problem-solving fundamentals
+* Understand patterns instead of memorizing solutions
+* Solve problems consistently
+* Improve time & space complexity analysis
+* Prepare for technical interviews
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajnandanisingh6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajnandanisingh6&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnandanisingh6&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📚 My Learning Philosophy
+
+```text
+Learn → Understand → Build → Break → Debug → Improve → Repeat
+```
+
+I believe the best way to learn development is by **building real projects, solving problems and understanding why things work.**
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Become internship-ready as a Backend Developer
+* [ ] Build production-style backend projects
+* [ ] Strengthen Java + DSA
+* [ ] Improve problem-solving skills
+* [ ] Learn backend architecture
+* [ ] Improve GitHub portfolio
+* [ ] Contribute to open source
+* [ ] Crack a software development internship
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rajnandani-singh-2a51702a7/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rajnandanisingh6">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💬 A Little More About Me
+
+```text
+💻 Code
+☕ Coffee
+🧠 DSA
+⚙️ Backend
+🚀 Projects
+📚 Continuous Learning
+```
+
+<p align="center">
+  <b>“Build. Learn. Debug. Improve. Repeat.”</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
