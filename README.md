@@ -1,38 +1,45 @@
-# 👋 Hey, I'm Rajnandani Singh
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:312e81&height=210&section=header&text=RAJNANDANI%20SINGH&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:312e81&height=190&section=header&text=RAJNANDANI%20SINGH&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Backend-Focused+Full+Stack+Developer;Node.js+%7C+Express+%7C+MongoDB;Java+%7C+DSA+%7C+Problem+Solving;Building+Projects+That+Actually+Work;Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Repeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=%24+whoami;Backend-Focused+Full+Stack+Developer;%24+currently+building...;APIs+%7C+Backend+%7C+Full+Stack+Projects;%24+status;Learning.+Building.+Improving." />
+</p>
+
+<p align="center">
+  <code>Java</code> ·
+  <code>JavaScript</code> ·
+  <code>Node.js</code> ·
+  <code>Express.js</code> ·
+  <code>MongoDB</code>
+</p>
+
+<p align="center">
+  <b>⚙️ I build things, break things, debug things — and learn from every iteration.</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/Rajnandanisingh6">
-    <img src="https://img.shields.io/badge/GitHub-Rajnandanisingh6-111827?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rajnandani-singh-2a51702a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 `whoami`
-
-> **B.Tech CSE Student • Backend-Focused Developer • Problem Solver**
-
-I enjoy turning ideas into **working web applications**, building APIs, working with databases, and improving my problem-solving skills through **Java + DSA**.
+## `~/about-me`
 
 ```text
-🎓  B.Tech CSE
-⚙️  Backend Development
-🧩  REST APIs & Authentication
-🗄️  MongoDB & Database Design
-☕  Java + DSA
-🚀  Currently preparing for Software Development Internships
+🎓  B.Tech CSE Student
+⚙️  Backend-Focused Full Stack Developer
+🧠  Java + DSA Problem Solver
+🚀  Building Real-World Projects
+🎯  Preparing for Software Development Internships
 ```
+
+> **I learn by building — not just watching tutorials.**
 
 ---
 
@@ -43,70 +50,106 @@ I enjoy turning ideas into **working web applications**, building APIs, working 
 </p>
 
 <p align="center">
-
-`Java` `JavaScript` `Node.js` `Express.js` `MongoDB` `React` `REST API` `JWT` `Git` `GitHub`
-
+  <code>REST APIs</code>
+  <code>JWT Authentication</code>
+  <code>CRUD</code>
+  <code>MVC</code>
+  <code>Git</code>
+  <code>Postman</code>
 </p>
 
 ---
 
-## 🚀 `things_i_build`
+## 🚀 `projects/`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📝 TaskZen
 
-Task management app focused on real-world backend development.
+**Task Management Application**
 
-**Built with**
+A full-stack project focused on authentication, CRUD operations and backend API development.
 
-`React` `Node.js` `Express` `MongoDB` `JWT`
+**Features**
 
-🔐 Authentication
-📌 CRUD APIs
-🛡️ Protected Routes
-⚙️ MVC Architecture
+* 🔐 JWT Authentication
+* 📝 Task CRUD
+* 🛡️ Protected Routes
+* 🗄️ MongoDB
+* ⚙️ MVC Architecture
+* 📡 REST APIs
+
+`React` `Node.js` `Express` `MongoDB`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎵 MusicNest
 
-Backend-focused music application built around APIs and database operations.
+**Music Backend Application**
 
-**Built with**
+Backend-focused application built to practice API development, database operations and image handling.
+
+**Features**
+
+* 🎵 Music Management
+* 👤 User Management
+* 📡 REST APIs
+* 🗄️ MongoDB
+* 🖼️ Image Upload
 
 `Node.js` `Express` `MongoDB`
-
-🎵 Music APIs
-👤 User Management
-🖼️ Image Upload
-🗄️ Database Integration
 
 </td>
 </tr>
 </table>
+
+### 🅿️ Parking Slot Tracker
+
+Backend project for managing parking slots and vehicle records.
+
+`Node.js` `Express.js` `MongoDB` `Postman`
 
 ---
 
 ## 🧠 `problem_solving.exe`
 
 ```text
-Java
-  ↓
-Logic Building
-  ↓
-DSA
-  ↓
-Patterns & Algorithms
-  ↓
-Better Problem Solving
+        JAVA
+          │
+          ▼
+   LOGIC BUILDING
+          │
+          ▼
+         DSA
+          │
+          ▼
+  PATTERNS & ALGORITHMS
+          │
+          ▼
+ BETTER PROBLEM SOLVING
 ```
 
-**Current focus:** Arrays → Strings → Searching → Sorting → Linked List → More DSA
+**Currently practicing:**
+`Java` → `Arrays` → `Strings` → `Searching` → `Sorting` → `Linked List`
+
+---
+
+## 🔭 `currently_working_on`
+
+```text
+Backend Development     ████████████████░░░░  80%
+DSA & Problem Solving   ██████████████░░░░░░  70%
+Full Stack Projects     █████████████░░░░░░░  65%
+Interview Preparation   ███████████░░░░░░░░░  55%
+```
+
+### 🎯 2026 Mission
+
+> **Build better projects → Solve harder problems → Become internship-ready.**
 
 ---
 
@@ -123,21 +166,6 @@ Better Problem Solving
 
 ---
 
-## 🔭 `currently_working_on`
-
-```text
-[████████████████░░░░] Backend Development
-[██████████████░░░░░░] DSA & Problem Solving
-[████████████░░░░░░░░] Full Stack Projects
-[██████████░░░░░░░░░░] Interview Preparation
-```
-
-### 🎯 2026 Mission
-
-**Build better → solve harder → become internship-ready → ship real software.**
-
----
-
 ## 🐍 `contribution.exe`
 
 <p align="center">
@@ -146,18 +174,46 @@ Better Problem Solving
 
 ---
 
+## 🌱 `learning_loop`
+
+```text
+Learn
+  ↓
+Understand
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Repeat 🔁
+```
+
+---
+
 <p align="center">
 
-### 💙 Thanks for stopping by!
-
-**Let's build something useful.**
+### 💙 Let's Build Something Useful.
 
 <br>
+
+<a href="https://github.com/Rajnandanisingh6">
+  <img src="https://img.shields.io/badge/Explore%20My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rajnandani-singh-2a51702a7/">
+  <img src="https://img.shields.io/badge/Let's%20Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Rajnandanisingh6&label=Profile%20Views&color=2563EB&style=flat-square"/>
 
 <br><br>
 
-<code>Learn → Build → Debug → Improve → Repeat</code>
+<i>“Don't just learn it. Build it.”</i>
 
 </p>
