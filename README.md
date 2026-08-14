@@ -51,11 +51,9 @@ const rajnandani = {
 <br/>
 
 ```text
-📍 Semester 7   → Full-time placement + internship prep mode
 📚 DSA          → 100+ problems solved, daily streak going strong
 🛠️ Projects     → Full-stack MERN app with JWT auth + dashboard
 🧠 Learning     → System design fundamentals
-🎯 Next Goal    → Land a Top Tech Company offer
 ```
 
 </details>
