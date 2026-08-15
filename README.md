@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Rajnandani%20Singh&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Java&descAlignY=55&descSize=20"/>
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hi+there%2C+I'm+Rajnandani+%F0%9F%91%8B;Full+Stack+MERN+Developer;Java+%26+DSA+Enthusiast;Building+APIs+that+actually+work;Currently+prepping+for+placements+%F0%9F%9A%80&font=Fira+Code&weight=600&size=26&duration=2800&pause=900&animation=rainbow&center=true&width=700" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rajnandani+%F0%9F%91%8B;Full+Stack+MERN+Developer;Java+%26+DSA+Enthusiast;Building+APIs+that+actually+work;Currently+prepping+for+placements+%F0%9F%9A%80" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
@@ -114,12 +114,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Rajnandanisingh6&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-## 🧠 GeeksforGeeks Stats
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/rajnandanisi514v/">
-    <img src="https://gfgstatscard.vercel.app/rajnandanisi514v?theme=dark" alt="GeeksforGeeks Stats"/>
-  </a>
-</p>
 
 <br/>
 
@@ -140,10 +134,8 @@
   <a href="https://github.com/Rajnandanisingh6">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+ 
+  <a href="https://leetcode.com/u/Rajnandani_Singh">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000"/>
   </a>
 </p>
