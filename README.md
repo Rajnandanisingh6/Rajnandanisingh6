@@ -2,12 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Rajnandani%20Singh&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Java&descAlignY=55&descSize=20"/>
 <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hi+there%2C+I'm+Rajnandani+%F0%9F%91%8B;Full+Stack+MERN+Developer;Java+%26+DSA+Enthusiast;Building+APIs+that+actually+work;Currently+prepping+for+placements+%F0%9F%9A%80&font=Fira+Code&weight=600&size=26&duration=2800&pause=900&animation=rainbow&center=true&width=700" />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 <br/>
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
-
 ## 🚀 About Me
 ```javascript
 const rajnandani = {
