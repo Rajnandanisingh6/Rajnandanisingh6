@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Rajnandani%20Singh&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Java&descAlignY=55&descSize=20"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rajnandani+%F0%9F%91%8B;Full+Stack+MERN+Developer;Java+%26+DSA+Enthusiast;Building+APIs+that+actually+work;Currently+prepping+for+placements+%F0%9F%9A%80" />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 <br/>
 <table width="100%">
 <tr>
@@ -94,3 +94,4 @@ const rajnandani = {
   <i><b>"Build. Learn. Improve. Repeat."</b></i>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+just improve in gfg and gfg like my profile related and github analytics improve if possible current ya best accordingly you improve and tech logo move if possible ya best way you adujust aur improve according and stating after somtime color change ya text me changes if look better according you improve now give me a code
