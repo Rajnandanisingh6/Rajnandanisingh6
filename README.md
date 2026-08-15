@@ -104,16 +104,15 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajnandanisingh6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnandanisingh6&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Rajnandanisingh6&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rajnandanisingh6&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajnandanisingh6&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajnandanisingh6&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Rajnandanisingh6&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
 
 <br/>
 
