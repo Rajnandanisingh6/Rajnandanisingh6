@@ -15,7 +15,9 @@
 
 <pre><code class="language-javascript">const rajnandani = {
   role: "Full Stack Developer",
+  pronouns: "she/her",
   based_in: "India 🇮🇳",
+  currentlyStudying: "7th Semester",
   stack: {
     frontend: ["React", "Tailwind CSS", "JavaScript"],
     backend: ["Node.js", "Express.js", "Java"],
@@ -62,7 +64,6 @@
 
 ## 💻 Featured Work
 
-<!-- TODO: Replace hrefs below with your real repo links once ready -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -103,8 +104,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajnandanisingh6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnandanisingh6&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Rajnandanisingh6&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rajnandanisingh6&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajnandanisingh6&theme=tokyonight&hide_border=true" width="70%"/>
@@ -117,9 +118,9 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rajnandanisingh6/Rajnandanisingh6/output/github-contribution-grid-snake.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
 </p>
-<sub>⚙️ This needs a one-time GitHub Action setup in your profile repo to generate — see setup note below.</sub>
+<sub align="center">⚙️ needs a one-time GitHub Action setup to animate on your own repo — ask me and I'll walk you through it</sub>
 
 <br/><br/>
 
@@ -132,6 +133,7 @@
   <a href="https://github.com/Rajnandanisingh6">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
   </a>
+ 
   <a href="https://leetcode.com/u/Rajnandani_Singh">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000"/>
   </a>
